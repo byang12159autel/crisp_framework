@@ -1,0 +1,12 @@
+[submodule "crisp_controllers_demos"]
+	path = crisp_controllers_demos
+	url = git@github.com:byang12159autel/crisp_controllers_demos.git
+[submodule "crisp_py"]
+	path = crisp_py
+	url = git@github.com:byang12159autel/crisp_py.git
+[submodule "crisp_gym"]
+	path = crisp_gym
+	url = git@github.com:byang12159autel/crisp_gym.git
+[submodule "crisp_controllers"]
+	path = crisp_controllers
+	url = git@github.com:byang12159autel/crisp_controllers.git
